@@ -1,0 +1,22 @@
+{
+  "name": "node-www",
+  "version": "1.0.0",
+  "description": "www",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noyobo/node-www.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noyobo/node-www/issues"
+  },
+  "homepage": "https://github.com/noyobo/node-www#readme",
+  "dependencies": {
+    "koa": "^2.6.2"
+  }
+}
